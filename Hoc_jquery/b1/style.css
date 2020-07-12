@@ -1,0 +1,33 @@
+header h1{
+    color: red;
+}
+main .block1 .block1__khung{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+main .block2{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+main .block2 .motkhoi h3{
+    cursor: pointer;
+    margin: 0!important;
+    padding: 3px;
+    background-color: chartreuse;
+}
+main .block2 .motkhoi .ndmotkhoi{
+    padding: 3px;
+    background-color: yellow;
+}
+main .block3{
+    margin-top: 10px;
+}
+main .block3 .cl-red{
+    color: red;
+}
+main .block3 .cl-blue{
+    color: blue;
+}
